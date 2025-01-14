@@ -75,18 +75,18 @@ export default tseslint.config(
 
 ## npm 설치
 
-npm i axios
-npm i react-router-dom
-npm i react-icons
-npm i react-hook-form yup @hookform/resolvers
-npm i react-quill
-npm i quill
-npm i dompurify
-npm i react-calendar
-npm i swiper
-npm i recoil
-npm i antd --save
-npm install -D tailwindcss postcss autoprefixer
+- npm i axios
+- npm i react-router-dom
+- npm i react-icons
+- npm i react-hook-form yup @hookform/resolvers
+- npm i react-quill
+- npm i quill
+- npm i dompurify
+- npm i react-calendar
+- npm i swiper
+- npm i recoil
+- npm i antd --save
+- npm install -D tailwindcss postcss autoprefixer
 
 ## Tailwindcss 세팅
 
